@@ -5,7 +5,7 @@ public class Test_Git_Practice_120125
 
 	public static void main(String[] args) 
 	{
-		
+		System.out.println("Hello Test");
 
 	}
 
